@@ -1,0 +1,27 @@
+button {
+    width: 250px;
+    height: 80px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+    background-color: #f39c12; /* Naranja */
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #e67e22; /* Naranja más oscuro al pasar el ratón */
+  }
+  
+  .boton-click {
+    background-color: #3498db; /* Azul */
+  }
+  
+  .boton-reiniciar {
+    background-color: #e74c3c; /* Rojo */
+  }
